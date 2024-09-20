@@ -35,7 +35,7 @@ class car():
     else:
       return False
     
-    
+  # checks people
   def checkPeople(self):
     time = 0
     if time == 0:
